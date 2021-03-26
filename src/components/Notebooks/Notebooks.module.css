@@ -1,0 +1,53 @@
+.notebooks{
+  padding: 1em 10px;
+}
+.title{
+  font-size: 1em;
+  line-height: 1;
+  color: var(--colormain); 
+}
+
+.list{
+  font-size: 1em; 
+  color: #555; 
+  list-style: none;
+  padding-left: 0;
+}
+
+.listitem{
+  margin-bottom: 2px;
+}
+.listitem:active{
+  position: relative;
+  top: 1px;
+}
+
+.listitem a{
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.35em 1em 0.45em 0.75em;
+  border: 2px solid transparent;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #fff;
+  line-height: 1.35;
+  transition: all 0.3s;
+}
+.listitem a:hover{
+  background: #444;
+}
+.listitem a:focus{
+  outline: none;
+}
+.listitem a:focus-visible{
+  box-shadow: 0 0 0 2px rgba(0, 255, 127,0.55);
+}
+.listitem a.active{
+  background: #252525;
+  color: var(--colormain); 
+  font-weight: 600;
+}
+.listitem a.active svg{
+  stroke: var(--colormain); 
+}

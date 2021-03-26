@@ -1,0 +1,13 @@
+.nomatch{
+  background-color: #222;
+  grid-column: 2 / span 2;
+  border: 2px solid #f00;
+  padding: 1em;
+}
+.nomatch code{
+  color: #0bf10b;
+  background-color: #555;
+  padding: 0.25em 0.5em;
+  border-radius: 3px;
+  line-height: 1;
+}

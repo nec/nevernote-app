@@ -1,0 +1,10 @@
+.list{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.overflow{
+  flex-grow: 1;
+  overflow-y: auto;
+}

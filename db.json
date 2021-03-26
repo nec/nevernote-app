@@ -1,0 +1,236 @@
+{
+  "notebooks": [
+    {
+      "id": 1,
+      "title": "Javascript"
+    },
+    {
+      "id": 2,
+      "title": "Travel"
+    },
+    {
+      "id": 3,
+      "title": "Movies"
+    },
+    {
+      "id": 4,
+      "title": "Cooking"
+    },
+    {
+      "title": "Sport",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "Music"
+    },
+    {
+      "id": 7,
+      "title": "Health"
+    },
+    {
+      "id": 8,
+      "title": "Memes"
+    },
+    {
+      "id": 9,
+      "title": "Read to Later"
+    },
+    {
+      "title": "Work",
+      "id": 10
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "API mocking of the next generation",
+      "notebookId": 1,
+      "text": "Mock by intercepting requests on the network level. Seamlessly reuse the same mock definition for testing, development, and debugging.\n\nhttps://mswjs.io/",
+      "updatedAt": 1610096735,
+      "createdAt": 1583702720,
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "title": "The Best Areas to Stay in Rome for Any Budget",
+      "notebookId": 2,
+      "text": "The Pantheon, the Colosseum, the Trevi Fountain, the Spanish Steps… when that list just touches on some of Rome’s treasures, is it any wonder that Italy contains the most World Heritage sites of any nation on Earth?\n\nRome attracts millions of tourists each year, supplementing a growing expat population, people from all over the world, who have dreams of riding scooters, eating gelato and falling in love in one of Europe’s most iconic cities. Whether you want to be in the heart of the action or would rather escape to a local neighbourhood, Italy’s capital has plenty of places on offer to make your Roman dreams come true.\n\nPrice Snapshot\nCentro Storico\nTrastavere\nAventino-Testaccio\nVatican City\nPopular Accommodation in Rome",
+      "updatedAt": 1610095650,
+      "createdAt": 1583809150,
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "title": "My trip to Moscow – personal travel guide",
+      "notebookId": 2,
+      "text": "привет from Russia. As you guys know, I travelled to Moscow last week and Ireally had an unforgettable time. I’ve visited so many beautiful spots and places I want to share with you. Today’s blog post is going to be my personal travel guide for Moscow with insights on where to stay, where to eat and what to see.\n\nEntry requirements for Russia\nTo enter Moscow, you will definitely need a visa. Make sure you apply for one well in advance. During periods of high demand, it will take up to 2 weeks until you receive it. You can apply for your visa via agencies like http://visa-plus.de.\n\nLocal transport\nPublic transport is rather cheap in Moscow. The most popular method of travel is the metro. It allows you to get to pretty much anywhere in the city, especially during peak travel periods. Although it is the fastest way to get around, it is definitely not the easiest, when you don’t speak Russian. I found it almost impossible to travel by metro, because there was no information in Englisch. I prefer to take an Uber or a Wheely. It is super easy and you can already book certain rides in advance ( very convenient for airport rides).",
+      "updatedAt": 1610095869,
+      "createdAt": 1582509150,
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "title": "Minimal React: getting started with the frontend library",
+      "notebookId": 1,
+      "text": "This blog post explains how to get started with React while using as few libraries as possible.\n\nhttps://2ality.com/2020/08/minimal-react.html",
+      "updatedAt": 1608507059,
+      "createdAt": 1592509150,
+      "isFavorite": false
+    },
+    {
+      "id": 5,
+      "title": "Natively Format JavaScript Numbers",
+      "notebookId": 1,
+      "text": "When I've needed to format numbers in JavaScript I usually used Number.prototype.toFixed(), found a 3rd party library, or manually manipulated the number to suite my needs. However, with modern browsers, there's a lot of really interesting capabilities you could start using with Number.prototype.toLocaleString() or Intl.NumberFormat. The following is a screenshot of the cross browser support from caniuse.com.\n\nhttps://elijahmanor.com/blog/format-js-numbers",
+      "updatedAt": 1609586686,
+      "createdAt": 1580703720,
+      "isFavorite": false
+    },
+    {
+      "id": 6,
+      "title": "The Mandalorian",
+      "notebookId": 3,
+      "text": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "updatedAt": 1610089066,
+      "createdAt": 1590972936,
+      "isFavorite": false
+    },
+    {
+      "id": 7,
+      "title": "Roast potatoes",
+      "notebookId": 4,
+      "text": "Ingredients:\n5 tbsp duck fat\n16 medium-sized Maris Piper or King Edward potatoes (each about 175g/6oz)\n8 garlic cloves\n8 sprigs thyme\nsea salt\n\nMethod:\n1. Preheat the oven to 190C/170C Fan/Gas 5.\n\n2. Parboil the potatoes in salted water for 7–8 minutes, or until almost cooked (they will still feel firm when pierced with a knife). Drain thoroughly using a colander, then shake the potatoes around a little in the colander until the outsides are roughened. Set aside, uncovered.\n\n3. Put the duck fat into a roasting tin and heat in the oven for 5 minutes.\n\n4. Add the drained, roughened potatoes to the tin of hot duck fat, then sprinkle over the garlic cloves, thyme and sea salt and mix until the potatoes are well coated in the fat. Return the tin to the oven and roast for 45–60 minutes, or until golden and crunchy.",
+      "updatedAt": 1610218131,
+      "createdAt": 1605678477,
+      "isFavorite": false
+    },
+    {
+      "title": "4 Ways to Combine Strings in JavaScript",
+      "text": "Here are four ways to combine strings in JavaScript. My favorite way is using Template Strings. Why? Because it’s more readable, no backslash to escape quotes, no awkward empty space separator, and no more messy plus operators 👏\n\nhttps://medium.com/dailyjs/4-ways-to-combine-strings-in-javascript-b1de5302fdaa",
+      "updatedAt": 1600016571,
+      "createdAt": 1599803720,
+      "notebookId": 1,
+      "id": 8,
+      "isFavorite": true
+    },
+    {
+      "title": "Setting Up Redux For Use In A Real-World Application",
+      "text": "Redux is a robust state-management library for single-page Javascript apps. It is described on the official documentation as a predictable state container for Javascript applications and it’s fairly simple to learn the concepts and implement Redux in a simple app. Going from a simple counter app to a real-world app, however, can be quite the jump.\n\nhttps://www.smashingmagazine.com/2020/08/redux-real-world-application/",
+      "updatedAt": 1601076539,
+      "createdAt": 1600972070,
+      "notebookId": 1,
+      "id": 9,
+      "isFavorite": false
+    },
+    {
+      "title": "Sardine bolognese",
+      "text": "Ingredients:\n\n2 tbsp olive oil\n1 stick celery, finely chopped\n1 onion, finely chopped\n1 carrot, finely chopped\n1 tsp plain flour\n2 tins good-quality sardines\n1 garlic clove, roughly chopped\n1 bay leaf\n2 tsp soy sauce\n2 tsp Worcestershire sauce\n200ml/7fl oz red wine\n200ml/7fl oz passata or chopped tomatoes from a tin\n500ml/18fl oz chicken stock\n400g/14oz dried spaghetti\n50g/1¾oz Parmesan, finely grated\n\nMethod:\n1. Heat the oil in a large pan over a low heat, then gently fry the celery, onion and carrot for 10 minutes. Dust with the flour and cook for another 5 minutes.\n\n2. Add the sardines, garlic, bay, soy and Worcestershire sauce and stir well. Add the red wine and cook until most of the liquid has gone. Add the passata and cook for 2 minutes, whisking vigorously.\n\n3. Add the stock and cook until almost all the liquid has gone, whisking occasionally.\n\n4. Meanwhile, bring a large pan of salted water to the boil and cook the spaghetti according to the packet instructions.\n\n5. Mix the spaghetti through the sauce and serve scattered with plenty of Parmesan.",
+      "updatedAt": 1588011459,
+      "createdAt": 1580972936,
+      "notebookId": 4,
+      "id": 10,
+      "isFavorite": false
+    },
+    {
+      "title": "The Avengers",
+      "text": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "updatedAt": 1610054128,
+      "createdAt": 1580976202,
+      "notebookId": 3,
+      "id": 11,
+      "isFavorite": false
+    },
+    {
+      "title": "Interstellar",
+      "text": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "updatedAt": 1610004107,
+      "createdAt": 1590077451,
+      "notebookId": 3,
+      "id": 12,
+      "isFavorite": true
+    },
+    {
+      "title": "Designing a JavaScript Plugin System",
+      "text": "Plugins are a common feature of libraries and frameworks, and for a good reason: they allow developers to add functionality, in a safe, scalable way. This makes the core project more valuable, and it builds a community — all without creating an additional maintenance burden. What a great deal!\n\nSo how do you go about building a plugin system? Let’s answer that question by building one of our own, in JavaScript.\n\nLet’s build a plugin system\nLet’s start with an example project called BetaCalc. The goal for BetaCalc is to be a minimalist JavaScript calculator that other developers can add “buttons” to. Here’s some basic code to get us started:\n\nhttps://css-tricks.com/designing-a-javascript-plugin-system/",
+      "updatedAt": 1609007059,
+      "createdAt": 1589318891,
+      "notebookId": 1,
+      "id": 13,
+      "isFavorite": true
+    },
+    {
+      "title": "Formula 1: Williams to use Mercedes gearboxes from 2022",
+      "text": "Formula 1 team Williams will use Mercedes gearboxes from 2022 after agreeing to \"expand its technical collaboration\" with the seven-time contractors' championship winners.\n\nWilliams have been powered by Mercedes engines since 2014.\n\nThe new partnership will also see Williams use \"related hydraulic components\" made by Mercedes.\n\nTeam principal Simon Roberts said it was a \"long-term\" deal and \"positive step\" for the English-based team.",
+      "updatedAt": 1606019851,
+      "createdAt": 1605014931,
+      "notebookId": 5,
+      "id": 14,
+      "isFavorite": false
+    },
+    {
+      "title": "Hot chocolate soufflé",
+      "text": "Ingredients\nFor the crème pâtissière chocolat\nbutter, for greasing\n180g/6¼oz plain chocolate (minimum 36% cocoa solids)\n300ml/10fl oz milk\n25g/1oz cocoa powder\n4 large free-range egg yolks\n60g/2¼oz caster sugar, plus extra for dusting\n40g/1½oz plain flour\nFor the meringue\n6 large free-range egg whites\n40g/1½oz caster sugar\n\nMethod\n1. Preheat the oven to 190C/170C Fan/Gas 5. Place a heavy baking tray on the middle shelf of the oven.\n\n2. Grease a 14x8cm (1.2 litre/2 pint) soufflé dish with butter and dust with caster sugar. Make a collar for the soufflé dish by folding a 50x30cm/20x12in piece of baking parchment 4 times lengthways (to make a 7½cm/3in deep collar). Wrap it around the top of the dish and secure with string.\n\n3. For the crème pâtissière chocolat, melt the chocolate in a bowl set over a pan of simmering water. Remove from the heat and leave to cool slightly.\n\n4. Pour the milk and cocoa powder into a heavy-based pan and bring gradually to the boil. Remove from the heat and leave to cool for 30 seconds. Meanwhile, in a medium bowl, whisk together the egg yolks and caster sugar until pale, then whisk in the plain flour. Pour the chocolate milk onto the eggs, whisking continuously, then pour back into the pan.\n\n5. Bring back to the boil, whisking continuously over a medium heat and cook for 1 minute until thickened. Remove from the heat and whisk in the melted chocolate. Spoon the crème pâtissière chocolat into a bowl, cover the surface with cling film to prevent a skin forming and leave to cool to room temperature.\n\n6. In a clean bowl whisk the egg whites to soft peaks. Add the sugar and continue whisking to a stiff and glossy meringue.\n\n7. Whisk one third of the meringue mixture into the crème patissiere chocolat, then fold in the remaining two-thirds using a large metal spoon. The mixture should be fairly loose.\n\n8. Pour the mixture into the souffle dish. Run your thumb around the interior rim of the dish to ensure a good rise. Bake on the preheated baking tray for 40-50 minutes, or until well risen and springy to touch.",
+      "notebookId": 4,
+      "updatedAt": 1600110100,
+      "createdAt": 1600081474,
+      "id": 15
+    },
+    {
+      "title": "Firefly ",
+      "text": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.",
+      "notebookId": 3,
+      "updatedAt": 1610000320,
+      "createdAt": 1585000000,
+      "id": 16
+    },
+    {
+      "title": "Depeche Mode’s Martin Gore Drops New Single That ‘Almost’ Sounds Human",
+      "text": "Ahead of the release of his instrumental EP The Third Chimpanzee, Depeche Mode’s Martin Gore has revealed the new single “Howler.”\n\nThe eerie, cerebral track comes accompanied by a video depicting a psychedelic painting of a howler monkey. Synths loom in and out, almost like the sound of primate.\n\n“‘Howler’ was the first track I recorded for The Third Chimpanzee EP,” Gore said in a statement. “I resynthesized some vocals that almost sounded human, but not quite. That’s why I decided to name the track after a monkey. I thought that would be a good theme to carry on with the rest of the tracks.”\n\n“Howler” follows the lead single “Mandrill.” The five-track EP, out January 29th, marks Gore’s first new solo music since 2015’s MG. It’s pressed on limited edition 12-inch blue vinyl as well as on CD. Both are available for preorder here.\n\nDepeche Mode was inducted into the Rock and Roll Hall of Fame last fall. Gore — the songwriter, guitarist, and chief creative force of the band — joined in a video with Dave Gahan and keyboardist Andy Fletcher to deliver a virtual speech.",
+      "notebookId": 6,
+      "updatedAt": 1610094633,
+      "createdAt": 1610094633,
+      "id": 17
+    },
+    {
+      "title": "How Often Should You Clean Your AirPods and Earbuds?",
+      "text": "Experts say using AirPods and earbuds can lead to health issues such as excessive earwax, ear pain, and tinnitus.\nThey say it’s important to let your ear canals ventilate after using these devices.\nExperts also recommend regularly cleaning and disinfecting these earpieces.",
+      "notebookId": 7,
+      "updatedAt": 1610094747,
+      "createdAt": 1610094747,
+      "id": 18
+    },
+    {
+      "title": "What is Internet Meme?",
+      "text": "An Internet meme, more commonly known simply as a meme, is a type of meme that is spread via the Internet, often through social media platforms and especially for humorous purposes. Memes can spread from person to person via social networks, blogs, direct email, or news sources. \n\nThey may relate to various existing Internet cultures or subcultures, often created or spread on various websites. Internet memes are \" Often, modifications or spoofs add to the profile of the original idea thus turning it into a phenomenon that transgresses social and cultural boundaries\".\n\nOne hallmark of Internet memes is the appropriation of a part of broader culture, for instance by giving words and phrases intentional misspellings (such as lolcats) or using incorrect grammar (such as doge). \nIn particular, many memes utilize popular culture (especially in image macros of other media), although this can lead to issues with copyright.",
+      "notebookId": 8,
+      "updatedAt": 1610095243,
+      "createdAt": 1610095120,
+      "id": 19
+    },
+    {
+      "title": "In Russia’s far north, legends and lives are frozen in time",
+      "text": "Wind-blown snow swirls past abandoned buildings keeping cold vigil over the empty streets of Dikson. Once the centerpiece of Soviet dreams to develop the Arctic, the port town was slowly deserted after the collapse of the Soviet Union in 1991.\n\nhttps://www.nationalgeographic.com/magazine/2020/12/in-russias-far-north-legends-and-lives-are-frozen-in-time-feature/",
+      "notebookId": 9,
+      "updatedAt": 1610095369,
+      "createdAt": 1610095369,
+      "id": 20
+    },
+    {
+      "title": "Let’s Create a Lightweight Native Event Bus in JavaScript",
+      "text": "An event bus is a design pattern (and while we’ll be talking about JavaScript here, it’s a design pattern in any language) that can be used to simplify communications between different components. It can also be thought of as publish/subscribe or pubsub.\n\nhttps://css-tricks.com/lets-create-a-lightweight-native-event-bus-in-javascript/",
+      "notebookId": 10,
+      "updatedAt": 1610095456,
+      "createdAt": 1610095456,
+      "id": 21
+    },
+    {
+      "title": "The Rules of Margin Collapse",
+      "text": "The basic stuff to know:\n\nMargin collapsing only happens in the block-direction. This is true even if you change the writing-mode or use logical properties.\nThe largest margin “wins”\nAny element in between will nix the collapsing (if we’re talking within-parent collapsing, even a bit of padding or border will be the in-between thing and prevent the collapsing, as Geoff noted when he covered it).\n\nBut it gets way weirder:\n\nMargins can collapse even when they aren’t from sibling elements.\nMargins in the same direction from different elements can also collapse.\nMargins from any number of elements can collapse.\nNegative margins also collapse, but it’s the larger-negative number that wins.\nIf it’s a bunch of elements all with different margins, you have to basically learn an algorithm to understand what happens and why.",
+      "notebookId": 10,
+      "updatedAt": 1610096254,
+      "createdAt": 1610096254,
+      "id": 22
+    }
+  ]
+}

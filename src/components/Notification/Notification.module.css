@@ -1,0 +1,28 @@
+.notification{
+  background: gray;
+  position: fixed;
+  bottom: 50px;
+  left: 50%;
+  padding: 0.25em 1em 0.3em;
+  border-radius: 4px;
+  z-index: 5;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  transform: translateX(-50%) translateY(100px);
+  opacity: 0;
+  transition: all 0.3s;
+}
+
+.success{
+  color: white;
+  background: green;
+}
+
+.error{
+  background: darkred;
+  color: white
+}
+
+.visible{
+  opacity: 1;
+  transform: translateX(-50%) translateY(0px);
+}

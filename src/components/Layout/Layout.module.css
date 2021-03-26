@@ -1,0 +1,45 @@
+.app {
+  background-color: #2e2e2e;
+  color:#fefefe;
+  height: 100vh;
+  box-sizing: border-box;
+  position: relative;
+  display: grid;
+  grid-template-columns: 250px 340px 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas: 
+                      'header header header'
+                      'notebooks notes main'
+                      'notebooks notes main'
+                      'footer footer footer';
+}
+
+@media (max-width: 1024px){
+  .app {
+    grid-template-columns: 200px 280px 1fr;
+  }
+}
+
+@media (max-width: 1023px){
+  .app{
+    overflow: hidden;
+  }
+  .app:after {
+    content: "🚧 Sorry. Unsupported screen size. Under development 🚧";
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    padding: 1em;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 5vw;
+    color: var(--colormain);
+    background: #1f1f1f;
+  }
+
+}

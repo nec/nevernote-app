@@ -1,0 +1,21 @@
+/*CreateNote*/
+.createNoteBody{
+  background-color: #272626;
+  padding: 1em;
+  grid-column: 2 / span 2
+} 
+
+.createNoteBody label{
+  display: block;
+  margin-bottom: 10px;
+}
+
+.createForm{
+  max-width: 500px;
+}
+
+.createNoteBody h1 span{
+  color: #fff;
+  font-size: 0.8em;
+  font-style: italic;
+}

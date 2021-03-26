@@ -1,0 +1,42 @@
+.sortmenu{
+	position: absolute;
+	top: 100%;
+	left: 0;
+	background: #333;
+	color: #bababa;
+	padding: 0 0 5px;
+	z-index: 5;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.sortmenuTitle{
+	padding: 10px 20px;
+	margin: 0;
+	text-transform: uppercase;
+	border-bottom:1px solid #414141;
+	color: #9f9f9f;
+}
+.sortmenuList{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	white-space: nowrap;
+}
+.sortmenuList li{
+	display: flex;
+	align-items: center;
+	padding: 7px 20px;
+	cursor: pointer;
+	user-select: none;
+}
+.sortmenuList li:hover{
+	background: #414141;
+}
+
+.arrows{
+	margin-right: 0.5em;
+	color: #727272;
+}
+
+.active{
+	color: var(--colormain);
+}

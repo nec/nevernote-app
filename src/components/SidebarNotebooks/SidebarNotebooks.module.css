@@ -1,0 +1,30 @@
+.sidebar{
+  grid-area: notebooks;
+  background-color: #333;
+  box-shadow: 0  0 20px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+
+.allnotes{
+  padding: 1em 10px 7px
+}
+.allnotes a.active{
+  background: var(--colormain);
+  color: #000;
+  font-weight: 600;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.9);
+}
+
+.favsnotes{
+  padding: 7px 10px 1em
+}
+.favsnotes a.active{
+  background: var(--colormain);
+  color: #000;
+  font-weight: 600;
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.9);
+}

@@ -1,0 +1,26 @@
+.settingsEntry{
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  margin-top: auto;
+  padding: 1em;
+  text-decoration: none;
+  background: #333;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.settingsEntry:focus{
+  outline: none;
+}
+.settingsEntry:focus-visible{
+  box-shadow: inset 0 0 0 2px rgba(0, 255, 127,0.55);
+}
+
+.settingsEntry img{
+  margin-right: 0.5em;
+}
+.settings{
+  background-color: #272626;
+  padding: 1em;
+  grid-column: 2 / span 2
+}
